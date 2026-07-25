@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nadir Bareche</h1>
+<h3 align="center">IT Support Technician | Computer Programming Graduate | Future CompTIA A+</h3>
 
-<!--
-**Nadir-Bareche/Nadir-Bareche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about IT Support, System Administration, Networking and Mobile Development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Programming Graduate
+- 💼 Currently working in Healthcare while pursuing an IT career
+- 🌱 Currently studying **CompTIA A+**
+- 🖥️ Building a professional **VMware HomeLab**
+- 📱 Learning **Flutter** for mobile development
+- 🎯 Goal: Become an IT Support / System Administrator
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+
+- Windows
+- Active Directory
+- Microsoft 365
+- Networking
+- VMware
+- Flutter
+- Java
+- C#
+- JavaScript
+- HTML
+- CSS
+- SQL Server
+- Git
+- GitHub
+
+</p>
+
+---
+
+## 🚀 Current Projects
+
+- 🖥️ VMware HomeLab
+- 📱 Flutter Applications
+- 🧱 LEGO Exchange Platform
+- 💻 IT Portfolio
+
+---
+
+## 📚 Currently Learning
+
+- CompTIA A+
+- Windows Server
+- Active Directory
+- Group Policy
+- DNS
+- DHCP
+- PowerShell
+
+---
+
+## 🎯 Career Objective
+
+I'm building real-world IT projects and labs to strengthen my technical skills and prepare for a career in IT Support and Systems Administration.
+
+---
+
+## 📫 Connect With Me
+
+- 📍 Gatineau, Québec, Canada
+- 💼 LinkedIn: https://www.linkedin.com/in/nadirbareche/
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
