@@ -11,7 +11,7 @@
 
 - 🎓 Computer Programming Graduate
 - 💼 Currently working in Healthcare while pursuing an IT career
-- 🌱 Currently studying **CompTIA A+**
+- 🌱 Currently studying **Cisco CCNA**
 - 🖥️ Building a professional **VMware HomeLab**
 - 📱 Learning **Flutter** for mobile development
 - 🎯 Goal: Become an IT Support / System Administrator
@@ -52,7 +52,7 @@
 
 ## 📚 Currently Learning
 
-- CompTIA A+
+- Cisco CCNA
 - Windows Server
 - Active Directory
 - Group Policy
